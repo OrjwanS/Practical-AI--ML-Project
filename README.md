@@ -14,4 +14,3 @@ Additional Project: Child Behavior Understanding
 -Use computer vision and NLP to understand and interpret children’s actions and emotions in real-time or from recordings
 
 https://colab.research.google.com/drive/1OBr6PNBGoS7NJH6jYV4e0M4BO9yv_Xxj
-
